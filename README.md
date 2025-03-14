@@ -1,5 +1,4 @@
 GIT Cheat Sheet
-___
 What is Git ?
 Git is the most commonly used Version Control System. Git tracks the changes you make to files, so you have a
 record of what has been done, and you can revert to specific versions should you ever need to. Git also makes
